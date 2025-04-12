@@ -93,7 +93,7 @@ GROUP BY
 
 ```
 
-![Coffee-Shop-Report](Images\gender_distribution.png)
+![Coffee-Shop-Report](Images/gender_distribution.png)
 
 
 ---
@@ -133,7 +133,7 @@ ORDER BY
 
 ```
 
-![Coffee-Shop-Report](Images\employee_city.png)
+![Coffee-Shop-Report](Images/employee_city.png)
 
 ---
 
@@ -173,7 +173,7 @@ WHERE ranks <= 3;
 
 ```
 
-![Coffee-Shop-Report](Images\Top_3_employee.png)
+![Coffee-Shop-Report](Images/Top_3_employee.png)
 
 
 ---
@@ -213,7 +213,7 @@ ORDER BY
 ```
 
 
-![Coffee-Shop-Report](Images\gender_country.png)
+![Coffee-Shop-Report](Images/gender_country.png)
 
 ---
 
@@ -242,7 +242,7 @@ GROUP BY
 
 ```
 
-![Coffee-Shop-Report](Images\total_shop_city.png)
+![Coffee-Shop-Report](Images/total_shop_city.png)
 
 
 ---
@@ -273,7 +273,7 @@ GROUP BY
 
 ```
 
-![Coffee-Shop-Report](Images\beans_type.png)
+![Coffee-Shop-Report](Images/beans_type.png)
 
 ---
 
@@ -313,7 +313,7 @@ ORDER BY
 
 ```
 
-![Coffee-Shop-Report](Images\supplier_city.png)
+![Coffee-Shop-Report](Images/supplier_city.png)
 
 ---
 
